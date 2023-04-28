@@ -11,7 +11,7 @@ I've dabbled in everything from Computer Science to Big Data in Business, earnin
 
 I spend my days (and sometimes nights) creating mind-blowing projects that will make you say "Wow, that's pretty cool!" Take a peek at these coding masterpieces:
 
-- [**Project 1: The Amazing Adventures of Code**](https://github.com/yourusername/amazing-adventures) - A thrilling tale of software development, filled with twists, turns, and semicolons.
+- [**Project 1: Data Anonymiser**](https://github.com/FrancesOkolo/Data-Anonymiser) - An ingenious tool to anonymise sensitive data, ensuring privacy while maintaining the essence of the information.
 - [**Project 2: The Great Repository Mystery**](https://github.com/yourusername/repository-mystery) - A gripping whodunit that will keep you guessing until the final commit.
 - [**Project 3: The Astonishing API Escapades**](https://github.com/yourusername/api-escapades) - A breathtaking journey into the heart of API integration, where no two endpoints are the same.
 
