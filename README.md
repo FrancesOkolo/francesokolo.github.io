@@ -4,7 +4,7 @@ Hey there, fellow human (or highly advanced AI)! :wink: I'm **Frances**, the Tab
 
 ## Educated and Decorated :mortar_board:
 
-Armed with a Ph.D. in progress, an M.Sc., an MBA, a BSc, and a handful of certifications, I've traversed the academic landscape from Nigeria to the UK.
+Armed with a Ph.D. in progress, an M.Sc., an MBA, a BSc, and a handful of certifications, I've traversed the academic landscape from Nigeria to India, and now the UK.
 I've dabbled in everything from Computer Science to Big Data in Business, earning titles like "Senior Data Analyst" and "Doctoral Researcher" along the way.
 
 ## My Fantabulous Projects :rocket:
