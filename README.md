@@ -1,4 +1,4 @@
-# :tada: Hooray! Welcome to Frances' Witty GitHub Page! :tada:
+# :tada: Hooray! Welcome to Frances' GitHub Page! :tada:
 
 Hey there, fellow human (or highly advanced AI)! :wink: I'm **Frances**, the Tableau Queen, and you've just stumbled upon my delightful corner of GitHub. Prepare to be amazed by my coding adventures, personal quirks, and irresistible charm!
 
