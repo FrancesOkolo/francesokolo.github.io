@@ -1,13 +1,13 @@
-# :tada: Hooray! Welcome to Frances' GitHub Page! :tada:
+# Hooray! Welcome to Frances' GitHub Page! :tada:
 
 Hey there, fellow human (or highly advanced AI)! :wink: I'm **Frances**, the Tableau Queen, and you've just stumbled upon my delightful corner of GitHub. Prepare to be amazed by my coding adventures, personal quirks, and irresistible charm!
 
-## :mortar_board: Educated and Decorated :mortar_board:
+## Educated and Decorated :mortar_board:
 
 Armed with a Ph.D. in progress, an M.Sc., an MBA, a BSc, and a handful of certifications, I've traversed the academic landscape from Nigeria to the UK.
-I've dabbled in everything from Computer Science to Big Data in Business, earning titles like "Senior Data Analyst" and "Doctoral Researcher" along the way.
+I've dabbled in everything from Computer Science to Big Data in Business, earning titles like "Senior Data Analyst", "Doctoral Researcher" and  my favorite "Tableau Queen" along the way.
 
-## :rocket: My Fantabulous Projects :rocket:
+## My Fantabulous Projects :rocket:
 
 I spend my days (and sometimes nights) creating mind-blowing projects that will make you say "Wow, that's pretty cool!" Take a peek at these coding masterpieces:
 
@@ -15,7 +15,7 @@ I spend my days (and sometimes nights) creating mind-blowing projects that will 
 - [**Project 2: The Great Repository Mystery**](https://github.com/yourusername/repository-mystery) - A gripping whodunit that will keep you guessing until the final commit.
 - [**Project 3: The Astonishing API Escapades**](https://github.com/yourusername/api-escapades) - A breathtaking journey into the heart of API integration, where no two endpoints are the same.
 
-## :sparkles: A Glimpse Into My World :sparkles:
+## A Glimpse Into My World :sparkles:
 
 When I'm not conquering the digital realm, I dabble in these exhilarating pursuits:
 
@@ -23,7 +23,7 @@ When I'm not conquering the digital realm, I dabble in these exhilarating pursui
 - Interest 2: Machine learning art - Blending creativity with artificial intelligence to produce awe-inspiring visuals.
 - Interest 3: Data-driven urban planning - Exploring how data can be used to create more sustainable, vibrant, and equitable cities.
 
-## :phone: Let's Connect! (No, Not Like That, Bluetooth) :phone:
+## Let's Connect! (No, Not Like That, Bluetooth) :phone:
 
 Want to chat about code, life, or the perfect recipe for homemade guacamole? Don't be shy—drop me a line through the magical world of the internet:
 
