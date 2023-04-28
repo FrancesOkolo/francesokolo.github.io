@@ -11,9 +11,18 @@ I've dabbled in everything from Computer Science to Big Data in Business, earnin
 
 I spend my days (and sometimes nights) creating mind-blowing projects that will make you say "Wow, that's pretty cool!" Take a peek at these coding masterpieces:
 
-- [**Project 1: Data Anonymiser**](https://github.com/FrancesOkolo/Data-Anonymiser) - An ingenious tool to anonymise sensitive data, ensuring privacy while maintaining the essence of the information.
-- [**Project 2: The Great Repository Mystery**](https://github.com/yourusername/repository-mystery) - A gripping whodunit that will keep you guessing until the final commit.
-- [**Project 3: The Astonishing API Escapades**](https://github.com/yourusername/api-escapades) - A breathtaking journey into the heart of API integration, where no two endpoints are the same.
+### Data Science Projects :mag:
+
+- [**Project 1: Marvelous Classification**](https://github.com/yourusername/marvelous-classification) - A fantastic adventure in the world of classification algorithms, where we predict the outcome of various scenarios with high accuracy.
+- [**Project 2: Remarkable Regression**](https://github.com/yourusername/remarkable-regression) - Dive into the realm of regression analysis, where we model the relationship between variables and make continuous predictions.
+- [**Project 3: Captivating Clustering**](https://github.com/yourusername/captivating-clustering) - An enthralling exploration of unsupervised learning, where we discover hidden patterns in data through clustering techniques.
+- [**Project 4: Superb Supervised Learning**](https://github.com/yourusername/superb-supervised-learning) - A mesmerizing journey through the world of supervised learning, as we train models to predict outcomes based on labeled data.
+
+Other data-related projects:
+
+- [**Project 5: Data Anonymiser**](https://github.com/FrancesOkolo/Data-Anonymiser) - An ingenious tool to anonymise sensitive data, ensuring privacy while maintaining the essence of the information.
+- [**Project 6: The Great Repository Mystery**](https://github.com/yourusername/repository-mystery) - A gripping whodunit that will keep you guessing until the final commit.
+- [**Project 7: The Astonishing API Escapades**](https://github.com/yourusername/api-escapades) - A breathtaking journey into the heart of API integration, where no two endpoints are the same.
 
 ## A Glimpse Into My World :sparkles:
 
